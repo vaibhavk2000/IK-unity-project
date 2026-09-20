@@ -24,6 +24,6 @@ Assets/
     │   ├── SoundEffectSO.cs
     │   └── CombatAudioManager.cs
     └── VFX/
-    ├── ImpactFeedbackManager.cs
-    ├── BloodVFXManager.cs
-    └── BloodParticleCollision.cs
+        ├── ImpactFeedbackManager.cs
+        ├── BloodVFXManager.cs
+        └── BloodParticleCollision.cs
